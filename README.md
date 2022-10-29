@@ -42,8 +42,8 @@ Be sure to check out some of my personal projects and feel free to reach out via
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlea8&layout=compact&exclude_repo=SnakeAI-Swift&langs_count=8)
-<br/>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlea8&layout=compact&exclude_repo=SnakeAI-Swift&langs_count=8) -->
+<!-- <br/> -->
 
 ----
 
