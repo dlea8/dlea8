@@ -1,7 +1,7 @@
 # Darrin Lea
 <!-- put a custom header -->
 
-### A little bit about me 👨‍💻
+### A little bit about me :wave:
 I’m an undergraduate at Louisiana State University double majoring in Computer Science and Math. I’ve always had a fascination with discovering how things work, especially when it comes to computers. Whether it’s developing software, tinkering with hardware, or playing with different operating systems, I’m always looking for new ways to learn about different aspects of computers. 
 <br/>
 <br/>
@@ -42,7 +42,9 @@ Be sure to check out some of my personal projects and feel free to reach out via
 <br/>
 <br/>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlea8&layout=compact&exclude_repo=SnakeAI-Swift&langs_count=8) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlea8&layout=compact)
+
+You can check out my [Resume](https://darrinfiles.s3.us-east-2.amazonaws.com/Darrin+Lea+Resume+September+2022.pdf) for more information!
 <!-- <br/> -->
 
 ----
