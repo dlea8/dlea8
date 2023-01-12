@@ -1,5 +1,6 @@
 # Darrin Lea
 <!-- put a custom header -->
+![alt text](https://github.com/dlea8/dlea8/blob/main/header.png?raw=true)
 
 ### A little bit about me :wave:
 I’m an undergraduate at Louisiana State University double majoring in Computer Science and Math. I’ve always had a fascination with discovering how things work, especially when it comes to computers. Whether it’s developing software, tinkering with hardware, or playing with different operating systems, I’m always looking for new ways to learn about different aspects of computers. 
