@@ -26,7 +26,7 @@ Be sure to check out some of my personal projects and feel free to reach out via
 <img align="left" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  />
 <br/>
 <br/>
-<img align="left" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<!-- <img align="left" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> -->
 <img align="left" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />
 <img align="left" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -42,8 +42,6 @@ Be sure to check out some of my personal projects and feel free to reach out via
 <br/>
 <br/>
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlea8&layout=compact)
 
 You can check out my [Resume](https://darrinfiles.s3.us-east-2.amazonaws.com/Darrin+Lea+Resume+September+2022.pdf) for more information!
 <!-- <br/> -->
